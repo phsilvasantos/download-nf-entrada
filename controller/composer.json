@@ -1,0 +1,7 @@
+{
+	"require": {
+		"nfephp-org/sped-nfe": "^5.0"
+	},
+	"files": ["config.php"]
+}
+
